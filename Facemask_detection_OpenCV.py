@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  9 12:11:20 2020
 
-@author: Quang
-"""
 
 import os
 import time
